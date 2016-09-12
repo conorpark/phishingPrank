@@ -19,8 +19,9 @@ Info Gathered:
 With these 6 data points, I can now setup a successful attack against the target.
 
 Purpose: Make program that closes Smite.exe, so target cannot access game
-
-![alt tag](http://prntscr.com/ch75tb)
+<br>
+<img height ="500" src="http://prntscr.com/ch75tb" />
+</br>
 
 Payload - winipn form. Program runs in background, scans for Smite.exe service, and closes it.
 
