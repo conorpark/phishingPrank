@@ -37,6 +37,8 @@ to uninstall winipn, allowing target to play Smite.exe once more. All files, inc
 The purpose of this prank is to demonstrate that after 1 programming class in vb.net, Visual Studio IDE, and Dreamweaver, a potential attacker can create a convincing HTML phishing email to launch a potential attack. Phishing emails are common, and many organizations give trainings designed to boost awareness about the threat. However, with a bit of social engineering and detail-oritented design, a HTML email can look official and include invisible embed links to malicious files. 
 
 Would you be able to detect this?
-![yuh-alt-tag] (http://prntscr.com/ch7cg5)
+<br>
+<img height ="500" src="http://image.prntscr.com/image/adc635147fc743379b3fc167a3c57c30.png" />
+</br>
 
 
