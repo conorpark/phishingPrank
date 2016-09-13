@@ -1,12 +1,11 @@
-# greatestPhishingPrank
+# phishingPrank
 A prank designed to help a certain roommate with a Smite MOBA addiction. Explaination of attack methodology and the potential of an HTML phishing email.
 
-Warning: The code included in this repository is for demonstration and educational purposes only. Do not use this code for illegal acts. 
-Additional warning: Long explaination ahead..
+Warning: The code included in this repository is for demonstration and educational purposes only. 
 
 After one programming class, I decided to use my newfound skills to code a prank. My roommate is addicted to the MOBA PC game Smite, denying him access would encite the desired reaction. 
 
-Before coding, decided to gather info about the target (roommate) to custom tailor an attack vector, something I term Target Oritented Attack. 
+Before coding, I decided to gather info about the target (roommate) to custom tailor an attack vector, something I term Target Oritented Attack. 
 
 Info Gathered:
 - Target is in college
@@ -19,11 +18,13 @@ Info Gathered:
 With these 6 data points, I can now setup a successful attack against the target.
 
 Purpose: Make program that closes Smite.exe, so target cannot access game
+
+**I think this missle effectively describes the attack software**
 <br>
-<img height ="500" src="http://image.prntscr.com/image/67a3e8f2d2084ad799576b3eb03404c2.png" />
+<img height ="450" src="http://image.prntscr.com/image/67a3e8f2d2084ad799576b3eb03404c2.png" />
 </br>
 
-Payload - winipn form. Program runs in background, scans for Smite.exe service, and closes it.
+Payload - winipn form. "Windows Network Application" Program runs in background, scans for Smite.exe service, and closes it.
 
 Package - Fake Nvidia Graphics Driver Installer. Target isn't going to download Payload on his own. The "driver installer" 
           provides the means of attack.
@@ -36,9 +37,9 @@ to uninstall winipn, allowing target to play Smite.exe once more. All files, inc
 
 The purpose of this prank is to demonstrate that after 1 programming class in vb.net, Visual Studio IDE, and Dreamweaver, a potential attacker can create a convincing HTML phishing email to launch a potential attack. Phishing emails are common, and many organizations give trainings designed to boost awareness about the threat. However, with a bit of social engineering and detail-oritented design, a HTML email can look official and include invisible embed links to malicious files. 
 
-Would you be able to detect this?
+Would you be able to detect this as fake?
 <br>
-<img height ="500" src="http://image.prntscr.com/image/adc635147fc743379b3fc167a3c57c30.png" />
+<img height ="750" src="http://image.prntscr.com/image/adc635147fc743379b3fc167a3c57c30.png" />
 </br>
 
 
