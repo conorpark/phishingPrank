@@ -1,11 +1,12 @@
 # phishingPrank
-A prank designed to help a certain roommate with a Smite MOBA addiction. Explaination of attack methodology and the potential of an HTML phishing email.
+A prank designed to help a certain roommate with a Smite MOBA addiction. README contains explaination of attack methodology and the potential of an HTML phishing email for use as an attack vector.
 
-Warning: The code included in this repository is for demonstration and educational purposes only. 
+<strong>Warning: The code included in this repository is for demonstration and educational purposes only.</strong>
 
-After one programming class, I decided to use my newfound skills to code a prank. My roommate is addicted to the MOBA PC game Smite, denying him access would encite the desired reaction. 
+<h1>Story behind prank </h1>
+If you had the opportunity to pull the perfect prank, would you? During my first programming class, I decided to use my newfound skills for such an endeavor. My roommates and I prank each other on a monthly basis, and it was my turn to do so. I figured denying a certain roommate access to Smite when the new patch (with new heros/levels) came out would incite a funny reaction ("rage"). 
 
-Before coding, I decided to gather info about the target (roommate) to custom tailor an attack vector, something I term Target Oritented Attack. 
+To ensure the prank was successful, I followed a series of steps to ensure a successful attack. Before coding, I gatheedr info about the target (roommate) to custom tailor an attack vector, something I term a Target Oritented Attack. 
 
 Info Gathered:
 - Target is in college
@@ -17,7 +18,7 @@ Info Gathered:
 
 With these 6 data points, I can now setup a successful attack against the target.
 
-Purpose: Make program that closes Smite.exe, so target cannot access game
+<h1>Purpose: Make program that closes Smite.exe, so target cannot access game</h1>
 
 **I think this missle effectively describes the attack software**
 <br>
