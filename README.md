@@ -35,10 +35,9 @@ Delivery System - Email. A meticulously crafted phishing email designed to convi
 
 ______________________________________________________________________________________________________________________________
 <h2> Conclusion </h2>
-Ultimately the attack was successful, and roommate was prevented from playing Smite.exe. The realistic phishing email easily convinced target to download the gpu driver installer, which installed the payload. Since this was a prank, "mlg antivirus.exe" was provided
-to uninstall winipn, allowing target to play Smite.exe once more. All files, including the "antivirus", are provided in the repository. Certain links/features have been removed to make the code harmless.
+Ultimately the attack was successful, my roommate fell for it hook, line, and sinker. The realistic phishing email easily convinced him to download the gpu driver installer, which installed the payload preventing access to Smite. Since this was a prank, a certain "mlg antivirus.exe" program was provided to uninstall the payload, allowing him to play Smite.exe once more. All files, including the "antivirus", are provided in the repository. Certain links/features have been removed to make the code harmless.
 
-The purpose of this prank is to demonstrate that after 1 programming class in vb.net, Visual Studio IDE, and Dreamweaver, a potential attacker can create a convincing HTML phishing email to launch a potential attack. Phishing emails are common, and many organizations give trainings designed to boost awareness about the threat. However, with a bit of social engineering and detail-oritented design, a HTML email can look official and include invisible embed links to malicious files. 
+The purpose of this prank is to demonstrate that after 1 programming class in vb.net, using the Visual Studio IDE, and Dreamweaver, a potential attacker can create a convincing HTML phishing email to launch a potential attack. Phishing emails are common, and many organizations give trainings designed to boost awareness about the threat. However, with a bit of social engineering and detail-oritented design, a HTML email can look official and include invisible embed links to malicious files rather than attachments. 
 
 Would you be able to detect this as fake?
 <br>
