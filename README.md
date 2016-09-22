@@ -28,7 +28,7 @@ With these 6 data points, I could now setup a successful attack against the targ
 
 Payload - winipn form. "Windows Network Application" Program runs in background, scans for Smite.exe service, and closes it.
 </br>
-<img height ="300" width = "300" src="http://image.prntscr.com/image/43889fc8677a407384315c45c1fb7758.png" />
+<img height ="100" width = "300" src="http://image.prntscr.com/image/43889fc8677a407384315c45c1fb7758.png" />
 </br>
 Package - Fake Nvidia Graphics Driver Installer. Target isn't going to download Payload on his own. The "driver installer" 
           provides the means of attack.
