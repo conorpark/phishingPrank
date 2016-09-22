@@ -3,7 +3,7 @@ A prank designed to help a certain roommate with a Smite MOBA addiction. README 
 
 <strong>Warning: The code included in this repository is for demonstration and educational purposes only.</strong>
 
-<h1>Story behind prank </h1>
+<h3>Story behind prank </h3>
 If you had the opportunity to pull the perfect prank, would you? During my first programming class, I decided to use my newfound skills for such an endeavor. My roommates and I prank each other on a monthly basis, and it was my turn to do so. I figured denying a certain roommate access to Smite when the new patch (with new heros/levels) came out would incite a funny reaction ("rage"). 
 
 To ensure the prank was successful, I followed a series of steps to ensure a successful attack. Before coding, I gatheedr info about the target (roommate) to custom tailor an attack vector, something I term a Target Oritented Attack. 
@@ -18,7 +18,7 @@ Info Gathered:
 
 With these 6 data points, I can now setup a successful attack against the target.
 
-<h1>Purpose: Make program that closes Smite.exe, so target cannot access game</h1>
+<h3>Purpose: Make program that closes Smite.exe, so target cannot access game</h3>
 
 **I think this missle effectively describes the attack software**
 <br>
@@ -33,6 +33,7 @@ Package - Fake Nvidia Graphics Driver Installer. Target isn't going to download 
 Delivery System - Email. A meticulously crafted phishing email designed to convince target to download "driver installer".
 
 ______________________________________________________________________________________________________________________________
+<h3> Conclusion </h3>
 Ultimately the attack was successful, and roommate was prevented from playing Smite.exe. The realistic phishing email easily convinced target to download the gpu driver installer, which installed the payload. Since this was a prank, "mlg antivirus.exe" was provided
 to uninstall winipn, allowing target to play Smite.exe once more. All files, including the "antivirus", are provided in the repository. Certain links/features have been removed to make the code harmless.
 
