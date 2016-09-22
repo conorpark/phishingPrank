@@ -16,9 +16,9 @@ Info Gathered:
 - Email of target
 - Target encounters crashes from underpowered gpu
 
-With these 6 data points, I can now setup a successful attack against the target.
+With these 6 data points, I could now setup a successful attack against the target.
 
-<h2>Purpose: Make program that closes Smite.exe, so target cannot access game</h2>
+<h2>Purpose: </h2> Make program that closes Smite.exe, so target cannot access game
 
 **I think this missle effectively describes the attack software**
 <br>
