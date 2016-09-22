@@ -18,10 +18,11 @@ Info Gathered:
 
 With these 6 data points, I could now setup a successful attack against the target.
 
-<h2>Purpose: </h2> Make program that closes Smite.exe, so target cannot access game
-
+<h2>Attack Description</h2> 
+<p>Purpose of program: Make program that closes Smite.exe, so target cannot access game</p>
+</br>
 **I think this missle effectively describes the attack software**
-<br>
+</br>
 <img height ="450" src="http://image.prntscr.com/image/67a3e8f2d2084ad799576b3eb03404c2.png" />
 </br>
 
