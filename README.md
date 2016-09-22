@@ -6,7 +6,7 @@ A prank designed to help a certain roommate with a Smite MOBA addiction. README 
 <h2>Story behind prank </h2>
 If you had the opportunity to pull the perfect prank, would you? During my first programming class, I decided to use my newfound skills for such an endeavor. My roommates and I prank each other on a monthly basis, and it was my turn to do so. I figured denying a certain roommate access to Smite when the new patch (with new heros/levels) came out would incite a funny reaction ("rage"). 
 
-To ensure the prank was successful, I followed a series of steps to ensure a successful attack. Before coding, I gatheedr info about the target (roommate) to custom tailor an attack vector, something I term a Target Oritented Attack. 
+To ensure the prank was successful, I followed a series of steps to ensure a successful attack. Before coding, I gathered info about the target (roommate) to custom tailor an attack vector, something I term a Target Oritented Attack. 
 
 Info Gathered:
 - Target is in college
